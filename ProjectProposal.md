@@ -1,4 +1,4 @@
-383: Project Proposal
+CST383: Project Proposal
 
 Team- Group 6
 -------------
