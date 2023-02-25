@@ -4,7 +4,7 @@
 
 ## Introduction
 <br>
-  A common perception is that pitbulls are one of the most dangerous dog breeds, so we wanted to explore some data behind this idea. With this in mind, we also want to use machine learning techniques to predict the likelihood of a bite incident occurring based on dog breed and size (height and weight) data within dog bite datasets. From the research article, "Ancestry-inclusive dog genomics challenges popular breed stereotypes" (Alonso et Al.) published on [Science.org](https://www.science.org/doi/10.1126/science.abk0639#:~:text=Most%20behavioral%20traits%20are%20heritable,9%25%20of%20variation%20in%20behavior.):
+  A common perception is that pitbulls are one of the most dangerous dog breeds, so we wanted to explore some data behind this idea. With this in mind, we also want to use machine learning techniques to predict the likelihood of a bite incident occurring based on dog breed and size (height and weight) data within dog bite datasets. From the research article, "Ancestry-inclusive dog genomics challenges popular breed stereotypes" (Alonso et Al.) published on [Science.org](https://www.science.org/doi/10.1126/science.abk0639)
 <br><br><i>"...dog breed is generally a poor predictor of individual behavior and should not be used to inform decisions relating to selection of a pet dog." </i>
 <br><br>
 We hypothesize that by training a model based on breed, size, and age we will discover the same- that breed is not a good predictor of behavior, and therefore pitbull breeds and mixes pose no grater risk than any other breed or mix. In doing so, we may help people adopt dogs that are better suited for them, and ultimately have every dog end up in a Forever Home.
@@ -30,9 +30,11 @@ What answer was found to the research question; what did the study find? Was the
 
 Discussion
 
-What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.
-
-Summary
-
-Most important findings.
+There are many factors that contribute to dog temperment and behavior. Based on preparatory reading done on the topic, experts in the field- animal behaviorists and veterinarians- have proven that  breed is not a reliable predictor of future dog behavior. In running through the data during the initial data preparation phase, it's clear that there are patterns in reported incidents, but a few additional questions come to mind, even looking at data that supports the opposite of what we are arguing:<br>
+1. Are there regional or statewide differneces in breed bans? It is intersting to note the difference from coast to coast on top bit incident count.
+2. Are there different reporting laws? Does a bite have to be reported if law enforcement or  hospital visit are not involved? Who is legally required to report bites in each location?
+3. Is breed popularity regional? It owuld be interesting to look at adoption rates of certain breeds regionally. If there are more adoptable or adopted pitbulls in one region versus another? By virtue of volume, bite incidents would be greater when more pitbulls are present.
+4. What triggers a bite incident, and what are the environmental factors that have contributed to a dog's overall temperament? Was it rescued? Surrendered? Seized for cruelty? This additional data would certainly paint a richer picture.
+<br>
+Portraying all breeds as equally tempered would help prevent abandonment and bias in adoptions. Shelters are well-known for being overwhelmed most of the time, and the longer animals stay in shelter, the less likely that are to be adopted over that time. If it were more commonly known that breed is not an indicator of future behavior, shelters could use that and work with behaviorists to educate the public interested in adopting. While it is true that breeds do have lifestyle-specific needs, that has no bearing on future behavior if they are provided with the environment they need to thrive.
 
