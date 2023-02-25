@@ -18,17 +18,17 @@ We hypothesize that by training a model based on breed, size, and age we will di
   The data has 8 numeric features: dataset, breed_group, bite_code, gender, age, average height, average_weight, lifespan and 3 categorical features: breed_group_S, primary_breed, and bite_severity<br><br>
   Null values are set to 0 in all numeric features except bite_code, where a bite code of 0 is significant. A null bite code is set to -1.
 
-Methods
+## Methods
 
 Numpy, Pandas, Matplotlib, and Seaborn for data preparation, analysis and plotting
 Google Colaboratory for development and project environment, versioned in GitHub
 Scikit: KNeighborsClassifier, Naive Bayes, Logistic Regression
 
-Results
+## Results
+Pitbulls are the breed that bites the most in our data set, but that does not mean they are the only breed that bites at a high rate or the only breed that is the most dangerous. What we can not determine from the dataset is whether pitbulls are more dangerous based on single bite incidents. Is there a mortality rate associated with incidence of bite? Is incidence of a single bite a true indicator of lifelong agression? What we can glean from our research is that while pitbulls may be the most reported breed in bite incidents, we can accumulate bit incidents of multiple breeds and come up with similar statistic when considering age and gender data that we had on hand.
 
-What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?
 
-Discussion
+## Discussion and Summary
 
 There are many factors that contribute to dog temperment and behavior. Based on preparatory reading done on the topic, experts in the field- animal behaviorists and veterinarians- have proven that  breed is not a reliable predictor of future dog behavior. In running through the data during the initial data preparation phase, it's clear that there are patterns in reported incidents, but a few additional questions come to mind, even looking at data that supports the opposite of what we are arguing:<br>
 1. Are there regional or statewide differneces in breed bans? It is intersting to note the difference from coast to coast on top bit incident count.
